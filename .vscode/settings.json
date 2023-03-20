@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://cdlreqsa:vWgBvTfDdS8TVM1ebUDk0Xpwuo-7ZfuL@ruby.db.elephantsql.com/cdlreqsa",
+            "name": "Week4WeekendProject"
+        }
+    ]
+}
